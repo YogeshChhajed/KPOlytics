@@ -1,7 +1,9 @@
 .hero-logo {
   height: 130px;
-  max-width: 180%;
+  width: 200px;
+  max-width: 100%;
   margin-bottom: 0px;
+  margin-top: 30px;
 }body {
   margin: 0;
   font-family: 'Inter', sans-serif;
@@ -140,6 +142,7 @@ footer {
   text-align: center;
   padding: 20px;
 }
+
 
 
 
