@@ -142,6 +142,19 @@ footer {
   text-align: center;
   padding: 20px;
 }
+.brand-list {
+  text-align: left;
+  max-width: 800px;
+  margin: 20px auto;
+  padding-left: 20px;
+  list-style-type: none;
+}
+
+.brand-list li {
+  margin-bottom: 12px;
+  font-size: 17px;
+  line-height: 1.6;
+}
 
 
 
