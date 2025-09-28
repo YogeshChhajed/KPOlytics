@@ -5,9 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>KPOLYTICS | Outsourcing for CPAs</title>
   <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
 </head>
 <body>
-  <header>
+  <header class="hero">
     <nav>
       <h1>KPOLYTICS</h1>
       <ul>
@@ -16,30 +17,46 @@
         <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
-    <section class="hero">
+    <div class="hero-content">
       <h2>Outsource Smarter. Scale Faster.</h2>
       <p>Trusted KPO partner for US-based CPAs. Transparent, secure, and analytics-driven.</p>
       <a href="#contact" class="cta-button">Book a Free Consultation</a>
-    </section>
+    </div>
   </header>
 
   <main>
-    <section id="services">
+    <section id="services" class="section">
       <h3>Our Services</h3>
-      <ul>
-        <li>📊 Bookkeeping & Controller Services</li>
-        <li>🧾 Tax Prep & Filing Support</li>
-        <li>🔍 Forensic Financial Analysis</li>
-        <li>🛡️ Compliance & Data Security</li>
-      </ul>
+      <div class="card-container">
+        <div class="card">
+          <i class="fas fa-chart-line"></i>
+          <h4>Controller Services</h4>
+          <p>Real-time financial oversight and reporting for CPA firms.</p>
+        </div>
+        <div class="card">
+          <i class="fas fa-file-invoice-dollar"></i>
+          <h4>Tax Prep & Filing</h4>
+          <p>Accurate, compliant, and deadline-driven tax support.</p>
+        </div>
+        <div class="card">
+          <i class="fas fa-search-dollar"></i>
+          <h4>Forensic Analysis</h4>
+          <p>Deep-dive financial diagnostics and valuation benchmarking.</p>
+        </div>
+        <div class="card">
+          <i class="fas fa-shield-alt"></i>
+          <h4>Compliance & Security</h4>
+          <p>Data protection and regulatory alignment for peace of mind.</p>
+        </div>
+      </div>
     </section>
 
-    <section id="about">
+    <section id="about" class="section">
       <h3>Why KPOLYTICS?</h3>
       <p>Founded by financial analysts with 15+ years of experience, we specialize in CPA-centric outsourcing. Our team blends precision, transparency, and real-time reporting to help firms scale without compromise.</p>
     </section>
 
-    <section id="contact">
+    <section id="contact" class="section">
       <h3>Get in Touch</h3>
       <form>
         <input type="text" placeholder="Your Name" required />
