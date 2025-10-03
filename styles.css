@@ -169,6 +169,9 @@ footer {
   margin-left: 0;
   list-style-position: inside; /* Optional: aligns bullets with text */
 }
+.deliverables-list li {
+  margin-top: 1rem;
+}
 
 
 
