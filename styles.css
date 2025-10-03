@@ -176,7 +176,7 @@ footer {
 .about-list {
   font-size: 1.1rem;
   line-height: 1.6;
-  margin-top: 1.5rem;
+  margin-top: 1rem;
   padding-left: 0;
   list-style-position: inside;
 }
@@ -184,6 +184,13 @@ footer {
 .about-list li {
   margin-bottom: 0.75rem;
 }
+.section-subtitle {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
 
 
 
