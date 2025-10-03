@@ -155,6 +155,15 @@ footer {
   font-size: 17px;
   line-height: 1.6;
 }
+.deliverables-list {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.deliverables-list li {
+  margin-bottom: 0.75rem;
+}
 
 
 
