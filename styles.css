@@ -156,13 +156,18 @@ footer {
   line-height: 1.6;
 }
 .deliverables-list {
-  font-size: 1.1rem;
-  line-height: 1.6;
+  font-size: 1.2rem;
+  line-height: 1.7;
   margin-bottom: 1.5rem;
 }
 
 .deliverables-list li {
   margin-bottom: 0.75rem;
+}
+.deliverables-list {
+  padding-left: 0;
+  margin-left: 0;
+  list-style-position: inside; /* Optional: aligns bullets with text */
 }
 
 
