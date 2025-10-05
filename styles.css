@@ -238,6 +238,9 @@ footer {
 }
 
 .logo-img {
-  height: 64px;
-  width: auto;
+  width: 100%;
+  max-width: 480px; /* Optional: limits stretch on larger screens */
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
