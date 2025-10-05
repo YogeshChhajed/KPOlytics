@@ -250,8 +250,3 @@ footer {
     max-width: none;
   }
 }
-nav {
-  position: sticky;
-  top: 0;
-  z-index: 1000;
-}
