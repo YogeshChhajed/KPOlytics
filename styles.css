@@ -250,4 +250,13 @@ footer {
     max-width: none;
   }
 }
-
+nav {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+nav {
+  background-color: #003366; /* your original blue */
+  padding: 0.5rem 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* subtle depth */
+}
