@@ -250,3 +250,8 @@ footer {
     max-width: none;
   }
 }
+footer a {
+  color: #FFA500; /* orange to match your CTA */
+  font-weight: 600;
+  text-decoration: none;
+}
