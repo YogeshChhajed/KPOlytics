@@ -14,7 +14,7 @@
 header.hero {
   position: relative;
   background: 
-    url('HEROBG.png') no-repeat center center,
+    url('HEROBGCOPY.png') no-repeat center center,
     linear-gradient(to right, #003366, #005599);
   background-size: cover;
   color: white;
@@ -263,6 +263,7 @@ footer a {
 nav {
   margin-bottom: 10px; /* Reduce from default or inherited spacing */
 }
+
 
 
 
