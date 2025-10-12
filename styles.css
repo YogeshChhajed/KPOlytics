@@ -12,14 +12,14 @@
 }
 
 header.hero {
-  background: url('hero-bg.png') no-repeat center center;
+  background: 
+    linear-gradient(to right, #003366, #005599),
+    url('hero-bg.png') no-repeat center center;
   background-size: cover;
-  background-color: linear-gradient(to right, #003366, #005599);
   color: white;
   padding: 60px 20px;
   text-align: center;
 }
-
 nav ul {
   list-style: none;
   display: flex;
@@ -257,5 +257,6 @@ footer a {
   font-weight: 600;
   text-decoration: none;
 }
+
 
 
