@@ -263,12 +263,13 @@ nav {
   margin-bottom: 10px; /* Reduce from default or inherited spacing */
 }
 .core-deliverable-title {
-  font-size: 64px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 2px;
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: none;
+  letter-spacing: 0.5px;
   margin-top: 0;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   text-align: center;
-  color: #333; /* or white if used in hero section */
+  color: #333;
 }
+
