@@ -14,7 +14,7 @@
 header.hero {
   background: url('hero-bg.png') no-repeat center center;
   background-size: cover;
-  color: #d3d3d3;
+  color: #999999;
   padding: 60px 20px;
   text-align: center;
 }
@@ -256,4 +256,5 @@ footer a {
   font-weight: 600;
   text-decoration: none;
 }
+
 
