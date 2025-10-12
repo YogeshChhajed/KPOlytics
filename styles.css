@@ -12,12 +12,14 @@
 }
 
 header.hero {
-  background: linear-gradient(to right, #003366, #005599);
+  position: relative;
+  background: url('hero-bg.png') no-repeat center center;
+  background-size: cover;
   color: white;
-  padding: 60px 20px;
+  padding: 80px 20px;
   text-align: center;
+  font-family: 'Inter', sans-serif;
 }
-
 nav ul {
   list-style: none;
   display: flex;
@@ -325,6 +327,7 @@ footer a {
     font-size: 1rem;
   }
 }
+
 
 
 
