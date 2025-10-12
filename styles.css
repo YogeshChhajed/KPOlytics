@@ -237,9 +237,10 @@ footer {
 }
 .logo-top {
   text-align: center;
-  padding: 1rem 0;
+  margin-top: 0;
+  padding-top: 8px;
+  padding-bottom: 12px;
 }
-
 .logo-img {
   width: 70%;
   max-width: 480px; /* Optional: limits stretch on larger screens */
@@ -258,4 +259,5 @@ footer a {
   font-weight: 600;
   text-decoration: none;
 }
+
 
