@@ -262,14 +262,4 @@ footer a {
 nav {
   margin-bottom: 10px; /* Reduce from default or inherited spacing */
 }
-.core-deliverable-title {
-  font-size: 36px;
-  font-weight: 700;
-  text-transform: none;
-  letter-spacing: 0.5px;
-  margin-top: 0;
-  margin-bottom: 20px;
-  text-align: center;
-  color: #333;
-}
 
