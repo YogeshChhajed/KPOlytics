@@ -262,15 +262,13 @@ footer a {
 nav {
   margin-bottom: 10px; /* Reduce from default or inherited spacing */
 }
-
-
-
-
-
-
-
-
-
-
-
-
+.core-deliverable-title {
+  font-size: 64px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  text-align: center;
+  color: #333; /* or white if used in hero section */
+}
