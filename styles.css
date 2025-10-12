@@ -311,6 +311,20 @@ footer a {
 .cta-button:hover {
   background-color: #27ae60;
 }
+@media (max-width: 768px) {
+  .hero {
+    padding: 60px 15px;
+    background-position: top center;
+  }
+
+  .hero-content h1 {
+    font-size: 2rem;
+  }
+
+  .hero-content p {
+    font-size: 1rem;
+  }
+}
 
 
 
