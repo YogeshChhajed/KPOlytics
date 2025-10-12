@@ -257,6 +257,9 @@ footer a {
   font-weight: 600;
   text-decoration: none;
 }
+.hero::before {
+  background: rgba(0, 0, 0, 0.4); /* darker overlay */
+}
 
 
 
