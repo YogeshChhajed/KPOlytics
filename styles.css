@@ -270,7 +270,7 @@ footer a {
 }
 .hero {
   position: relative;
-  background: url('images/hero-bg.png') no-repeat center center;
+  background: url('hero-bg.png') no-repeat center center;
   background-size: cover;
   padding: 80px 20px;
   color: #fff;
@@ -311,5 +311,6 @@ footer a {
 .cta-button:hover {
   background-color: #27ae60;
 }
+
 
 
