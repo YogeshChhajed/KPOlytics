@@ -12,7 +12,8 @@
 }
 
 header.hero {
-  background: linear-gradient(to right, #003366, #005599);
+  background: url('hero-bg.png') no-repeat center center;
+  background-size: cover;
   color: white;
   padding: 60px 20px;
   text-align: center;
@@ -255,3 +256,4 @@ footer a {
   font-weight: 600;
   text-decoration: none;
 }
+
