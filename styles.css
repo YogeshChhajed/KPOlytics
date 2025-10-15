@@ -14,7 +14,7 @@
 header.hero {
   position: relative;
   background: 
-    url('bcgg.png') no-repeat center center;
+    url('bcg.png') no-repeat center center;
   background-size: cover;
   color: white;
   padding: 60px 20px;
@@ -262,5 +262,6 @@ footer a {
 nav {
   margin-bottom: 10px; /* Reduce from default or inherited spacing */
 }
+
 
 
