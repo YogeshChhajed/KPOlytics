@@ -262,6 +262,13 @@ footer a {
 nav {
   margin-bottom: 10px; /* Reduce from default or inherited spacing */
 }
+.hero-intro {
+  font-size: 17px;
+  max-width: 700px;
+  margin: 0 auto 30px;
+  line-height: 1.6;
+  color: #f0f0f0; /* Light tone for contrast on hero background */
+}
 
 
 
